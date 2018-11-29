@@ -2,3 +2,7 @@ baseURL = "http://blog.buchadian.cn"
 languageCode = "zh-cn"
 title = "不插电家庭实验"
 theme="buchadian"
+[params]
+	name = "不插电科学"
+	description = "不插电科学博客"
+	
