@@ -33,4 +33,12 @@ function retina() {
 	});
 };
  
+// 增加统计代码
 $(document).ready(retina);
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?56623ebe5d998390e2594580aae8551f";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
