@@ -4,9 +4,9 @@ date: 2018-10-18T08:23:16+08:00
 draft: false 
 --- 
 
-<video src
+<video src="http://static.buchadian.cn/test/app/video/Why_should_you_read_Kurt_Vonnegut.mp4" controls></video>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAxNDU0NjI1LC0xNzQ0NjQ4MjUyLDEwMj
-AyMzgzNTcsLTI5MTUyMjAyNCwtMTk1Nzg4NjA1NSwtMTI1Nzg0
-NzQxNSwyMjI3Mjc2ODFdfQ==
+eyJoaXN0b3J5IjpbLTEwODQ3NjI5NzYsLTE3NDQ2NDgyNTIsMT
+AyMDIzODM1NywtMjkxNTIyMDI0LC0xOTU3ODg2MDU1LC0xMjU3
+ODQ3NDE1LDIyMjcyNzY4MV19
 -->
