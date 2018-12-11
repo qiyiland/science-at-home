@@ -4,9 +4,10 @@ date: 2018-10-18T08:23:16+08:00
 draft: false 
 --- 
 
-<video src="http://static.buchadian.cn/test/app/video/Kurt_Vonnegut.mp4" controls></video>
+<video src="blob:https://baike.baidu.com/5b9849e6-2871-4097-84c7-809b8cf8e77c" controls></video>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA3MDY0MzMyLC0xMDg0NzYyOTc2LC0xNz
-Q0NjQ4MjUyLDEwMjAyMzgzNTcsLTI5MTUyMjAyNCwtMTk1Nzg4
-NjA1NSwtMTI1Nzg0NzQxNSwyMjI3Mjc2ODFdfQ==
+eyJoaXN0b3J5IjpbLTk4MTg4OTkxOSw0MDcwNjQzMzIsLTEwOD
+Q3NjI5NzYsLTE3NDQ2NDgyNTIsMTAyMDIzODM1NywtMjkxNTIy
+MDI0LC0xOTU3ODg2MDU1LC0xMjU3ODQ3NDE1LDIyMjcyNzY4MV
+19
 -->
