@@ -4,10 +4,11 @@ date: 2018-10-18T08:23:16+08:00
 draft: false 
 --- 
 
-<video src="http://static.allinfun.cn/buchadian/1.mp4" controls="controls"></video>
+<video src="http://static.buchadian.cn/1.webm" controls="controls"></video>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTQyODMzNzgsNzYzOTg0MzYyLDQwNz
-A2NDMzMiwtNjA1OTI4NjMxLDkwMDM3MzYxOCwtMTA4NDc2Mjk3
-NiwtMTc0NDY0ODI1MiwxMDIwMjM4MzU3LC0yOTE1MjIwMjQsLT
-E5NTc4ODYwNTUsLTEyNTc4NDc0MTUsMjIyNzI3NjgxXX0=
+eyJoaXN0b3J5IjpbMzkwODEzMjg0LC0yMDk0MjgzMzc4LDc2Mz
+k4NDM2Miw0MDcwNjQzMzIsLTYwNTkyODYzMSw5MDAzNzM2MTgs
+LTEwODQ3NjI5NzYsLTE3NDQ2NDgyNTIsMTAyMDIzODM1NywtMj
+kxNTIyMDI0LC0xOTU3ODg2MDU1LC0xMjU3ODQ3NDE1LDIyMjcy
+NzY4MV19
 -->
