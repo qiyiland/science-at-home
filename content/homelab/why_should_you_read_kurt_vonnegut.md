@@ -4,10 +4,10 @@ date: 2018-10-18T08:23:16+08:00
 draft: false 
 --- 
 
-<video src="http://static.buchadian.cn/test/app/video/Kurt_Vonnegut.mp4" controls></video>
+<video src="http://static.allinfun.cn/buchadian/Why%20should%20you%20read%20Kurt%20Vonnegut%20-%20Mia%20Nacamulli.webm" controls></video>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA3MDY0MzMyLC02MDU5Mjg2MzEsOTAwMz
-czNjE4LDQwNzA2NDMzMiwtMTA4NDc2Mjk3NiwtMTc0NDY0ODI1
+eyJoaXN0b3J5IjpbNzYzOTg0MzYyLDQwNzA2NDMzMiwtNjA1OT
+I4NjMxLDkwMDM3MzYxOCwtMTA4NDc2Mjk3NiwtMTc0NDY0ODI1
 MiwxMDIwMjM4MzU3LC0yOTE1MjIwMjQsLTE5NTc4ODYwNTUsLT
 EyNTc4NDc0MTUsMjIyNzI3NjgxXX0=
 -->
