@@ -4,9 +4,9 @@ date: 2018-10-18T08:23:16+08:00
 draft: false 
 --- 
 
-<video src="http://static.buchadian.cn/Why%20should%20you%20read%20Kurt%20Vonnegut%20-%20Mia%20Nacamulli.webm" controls></video>
+<video src="http://static.allinfun.cn/buchadian/Why should you read Kurt Vonnegut - Mia Nacamulli (1).mp4" controls="controls"></video>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NjQ2ODM0MCw3NjM5ODQzNjIsNDA3MD
+eyJoaXN0b3J5IjpbMTY2NzI4MTMzNyw3NjM5ODQzNjIsNDA3MD
 Y0MzMyLC02MDU5Mjg2MzEsOTAwMzczNjE4LC0xMDg0NzYyOTc2
 LC0xNzQ0NjQ4MjUyLDEwMjAyMzgzNTcsLTI5MTUyMjAyNCwtMT
 k1Nzg4NjA1NSwtMTI1Nzg0NzQxNSwyMjI3Mjc2ODFdfQ==
